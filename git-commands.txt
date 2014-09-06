@@ -3,6 +3,7 @@ git status
 git pull
 git add -A
 git add .
+git add "my file.ext"
 git commit -m "my commit msg"
 git push
 git branch feature1
