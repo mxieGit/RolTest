@@ -1,0 +1,10 @@
+git clone url
+git status
+git pull
+git add -A
+git add .
+git commit -m "my commit msg"
+git push
+git branch feature1
+git checkout feature1
+git merge master
