@@ -8,4 +8,11 @@ git commit -m "my commit msg"
 git push
 git branch feature1
 git checkout feature1
+REM TODO: feature 1 changes go here
+git checkout master
+git pull
 git merge master
+git push
+REM TODO: submit it as a pull request
+REM That pull request can now receive comments and code discussion, 
+REM   as well as accept new commits before being merged in with the master branch
