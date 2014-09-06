@@ -12,7 +12,8 @@ namespace MVC5.Controllers
         // GET: /Home/
         public ActionResult Index()
         {
-            return View();
+            var s = string.Empty;
+            return View(s);
         }
 	}
 }
