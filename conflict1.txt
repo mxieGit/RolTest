@@ -2,4 +2,5 @@ confit test file1
 
 <module-one>
   <li>one-first row</li>
+  <li>one-second row</li>
 <module-one>
